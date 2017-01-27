@@ -1,3 +1,7 @@
 *.clas
 .metadata/*
 .recommenders/*
+.settings/*
+bin/*
+.classpath
+.project
