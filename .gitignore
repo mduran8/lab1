@@ -1,7 +1,10 @@
 *.clas
 .metadata/*
 .recommenders/*
+.metadata/*
 *.settings
 bin/*
 *.classpath
 *.project
+helloworld/.setting/*
+helloworld/bin/*

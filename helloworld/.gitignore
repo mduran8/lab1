@@ -1,5 +1,10 @@
-*.class
-.settings/*
+*.clas
+.metadata/*
+.recommenders/*
+.metadata/*
+*.settings
 bin/*
-.classpath
-.project
+*.classpath
+*.project
+.setting/*
+bin/*
