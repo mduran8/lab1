@@ -1,1 +1,6 @@
 *.class
+/bin/
+*.class
+helloworld.project
+helloworld.classpath
+helloworld.iml
